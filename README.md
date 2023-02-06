@@ -26,7 +26,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Game of Thrones API</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="https://game-of-thrones-react-omega.vercel.app/">
             <img src="images/GoT.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
