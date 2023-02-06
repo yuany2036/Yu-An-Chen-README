@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yu-An Chen</h1>
 <p align="center">
   <a href="https://portfolio-react-five-iota.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yuan-chen1991/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/yuany2036" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://flowcv.com/resume/f9msdwkj16" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://www.codewars.com/users/yuany2036" target="_blank">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
 </p>
 <h3 align="center">A curious fullstack developer from Taiwan, living in Germany</h3>
@@ -168,10 +168,9 @@
   <a href="https://twitter.com/yuany2036" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://flowcv.com/resume/f9msdwkj16" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-<a href="https://www.codewars.com/users/yuany2036" target="_blank">
+  <a href="https://www.codewars.com/users/yuany2036" target="_blank">
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
 </p>
+
+<p>Click <a href="https://twitter.com/yuany2036" target="_blank">here</a> for a look at my resume.</p>
