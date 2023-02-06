@@ -173,4 +173,4 @@
   </a>
 </p>
 
-<p>Click <a href="https://twitter.com/yuany2036" target="_blank">here</a> for a look at my resume.</p>
+<h4>Click <a href="https://twitter.com/yuany2036" target="_blank">here</a> for a look at my resume.</h4>
