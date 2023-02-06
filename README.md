@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React & Scss</strong> - Ready to have a snazzy shurggy tell you off while you guess the titles of works of art? Then click the link and get started!</p>
+        <p><strong>Javascript, React & Scss</strong> - Ready to have a snazzy shruggy tell you off while you guess the titles of works of art? Then click the link and get started!</p>
     </td>
   </tr>
   
@@ -102,8 +102,8 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
-  </tr>
-</table> -->
+  </tr> -->
+</table>
 
 <br>
 
