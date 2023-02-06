@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p></p>
+<p align="center">A full-stack web developer from Taiwan, based in Germany, always eager to learn new technologies to take on new challenges.</p>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
