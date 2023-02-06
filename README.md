@@ -173,4 +173,4 @@
   </a>
 </p>
 
-<h3 align="center">Click <a href="https://twitter.com/yuany2036" target="_blank">here</a> for a look at my resume.</h3>
+<h3 align="center">Click <a href="https://flowcv.com/resume/f9msdwkj16" target="_blank">here</a> for a look at my resume.</h3>
