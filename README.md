@@ -16,13 +16,8 @@
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
 </p>
-<h3 align="center">A curious fullstack developer from Taiwan, living in Germany</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-react-3mi0m08a6-yuany2036.vercel.app/](https://portfolio-react-3mi0m08a6-yuany2036.vercel.app/)
-
-- 💬 Ask me about **react, sass, javascript**
-
-- 📫 How to reach me **yuany2036@gmail.com**
+<p></p>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
