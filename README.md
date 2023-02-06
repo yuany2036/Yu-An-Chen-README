@@ -109,21 +109,11 @@
 
 <br>
 
-- [![Next][next.js]][next-url]
-- [![React][react.js]][react-url]
-- [![Vue][vue.js]][vue-url]
-- [![Angular][angular.io]][angular-url]
-- [![Svelte][svelte.dev]][svelte-url]
-- [![Laravel][laravel.com]][laravel-url]
-- [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url]
-
-<br>
-
 <div align="center">
 <h1> Coding Challenges</h1>
 <a href="https://www.codewars.com/users/yuany2036" target="_blank"><img src="https://www.codewars.com/users/yuany2036/badges/large" /></a>
 </div>
+
 ---
 
 <h1 align="center">Connect</h1>
