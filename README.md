@@ -66,7 +66,7 @@
     </td>
   </tr>
   
-  <tr>
+  <!-- <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
       <br />
@@ -103,7 +103,9 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
   </tr>
-</table>
+</table> -->
+
+<br>
 
 <div align="center">
 <h1> Coding Challenges on Code Wars:</h1>
