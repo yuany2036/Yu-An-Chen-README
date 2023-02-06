@@ -32,7 +32,7 @@
       <h3 align="center">Game of Thrones API</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="images/GoT.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
@@ -50,7 +50,7 @@
       <h3 align="center">Shrugman</h3>
         <br />
       <a target="_blank" href="https://shrugman.vercel.app/">
-            <img src="images/shrugman.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/shrugman.gif" width="100%"  alt="Shrugman"/>
         </a>
         <br />
         <p align="center">
