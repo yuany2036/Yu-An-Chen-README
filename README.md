@@ -105,6 +105,11 @@
   </tr>
 </table>
 
+<div align="center">
+<h3> Coding Challenges </h3>
+<a href="https://www.codewars.com/users/yuany2036" target="_blank"><img src="https://www.codewars.com/users/yuany2036/badges/large" /></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuan-chen1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuan-chen1991" height="30" width="40" /></a>
