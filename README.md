@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFZyar6quw/Ct4Mp7PIpjTOvyBClrV4Fw/view?utm_content=DAFZyar6quw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100%">
+<img src="./images/banner.jpg" width="100%">
 
 <h1 align="center">Hi 👋, I'm Yu-An Chen</h1>
 <h3 align="center">A curious fullstack developer from Taiwan, living in Germany</h3>
