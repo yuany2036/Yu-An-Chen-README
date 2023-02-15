@@ -24,7 +24,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">A Song of Application Programming Interface: Game of Thrones</h3>
+      <h3 align="center">A Song of Application Programming Interface</h3>
         <br />
         <a target="_blank" href="https://game-of-thrones-react-omega.vercel.app/">
             <img src="images/GoT.gif" width="100%" alt="Travel App"/>
