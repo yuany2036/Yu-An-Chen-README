@@ -42,7 +42,7 @@
         <p><strong>Javascript, React & Sass</strong> -  A simple website displaying various characters from the Game of Thrones show, as well as a gallery to view different photos from the show!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Shrugman</h3>
+      <h3 align="center">Shrugman: The Shrugman Shrugs Back</h3>
         <br />
       <a target="_blank" href="https://shrugman.vercel.app/">
             <img src="images/shrugman.gif" width="100%"  alt="Shrugman"/>
